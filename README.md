@@ -31,6 +31,13 @@ Create a bar chart highlighting the top 5 best-selling pizzas based on the total
 **7.Bottom 5 Worst Sellers by Total Pizzas Sold:**
 Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the total number of pizzas sold. This chart will enable us to identify underperforming or less popular pizza options.
 
+# Analysis Steps
 
+## Data Cleaning and Preprocessing:
+Handle missing values, duplicates, and outliers.
+Merge relevant tables, Feature Engineering
 
+## Exploratory Data Visualization:
+Line Chart, Pie charts, Doughnut Chart
+Slicer and timeline chart, Bar charts
 
